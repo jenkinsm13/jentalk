@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='JentalkIDE',
-    version='0.1.5',
+    version='0.1.7',
     author='Mike Jenkins',
     author_email='mike@chrotonics.com',
     packages=find_packages(),
