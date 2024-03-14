@@ -46,6 +46,17 @@ The Jentalk IDE provides a set of keyboard commands to enhance the user experien
 
 We are actively working to address these issues and improve the IDE. If you encounter any bugs or have suggestions for enhancements, please open an issue on the GitHub repository.
 
+# Using Jentalk Symbols and AI Integration
+## Typing Jentalk Symbols
+To type Jentalk symbols, you can use the online keyboard available at [Jentalk Keyboard](https://jentalk.org/keyboard.html). This tool allows you to input Jentalk symbols directly and then copy and paste them into the Jentalk IDE. This is particularly useful for composing complex expressions or for users who are not yet familiar with the Jentalk symbol set.
+
+## AI Integration
+The Jentalk IDE supports the integration of AI to assist with learning and using the Jentalk language. A starting prompt can be used to teach an AI model the basics of Jentalk. You can find an example starting prompt in the `.txt` file within the repository. This prompt can be fed into an AI chatbot, allowing the AI to generate and understand Jentalk expressions.
+
+The integration of AI into the Jentalk IDE opens up exciting possibilities for automated language processing, translation, and even code generation within the Jentalk language framework.
+
+For more information on how to use the starting prompt with AI, please refer to the `AI_STARTING_PROMPT.txt` file in the repository.
+
 ## Contributing
 Contributions to the Jentalk IDE are welcome! Please read the CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
