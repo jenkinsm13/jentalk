@@ -120,6 +120,9 @@ class JentalkIDE(tk.Tk):
     def show_about(self):
         messagebox.showinfo("About Jentalk IDE", "Jentalk IDE\nVersion 1.0")    
 
-if __name__ == "__main__":
+def main():
     ide = JentalkIDE()
     ide.mainloop()
+
+if __name__ == "__main__":
+    main()
