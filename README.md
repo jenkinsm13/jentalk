@@ -50,12 +50,30 @@ We are actively working to address these issues and improve the IDE. If you enco
 ## Typing Jentalk Symbols
 To type Jentalk symbols, you can use the online keyboard available at [Jentalk Keyboard](https://jentalk.org/keyboard.html). This tool allows you to input Jentalk symbols directly and then copy and paste them into the Jentalk IDE. This is particularly useful for composing complex expressions or for users who are not yet familiar with the Jentalk symbol set.
 
-## AI Integration
-The Jentalk IDE supports the integration of AI to assist with learning and using the Jentalk language. A starting prompt can be used to teach an AI model the basics of Jentalk. You can find an example starting prompt in the `.txt` file within the repository. This prompt can be fed into an AI chatbot, allowing the AI to generate and understand Jentalk expressions.
+## Enhanced AI Integration in Jentalk IDE
 
-The integration of AI into the Jentalk IDE opens up exciting possibilities for automated language processing, translation, and even code generation within the Jentalk language framework.
+The Jentalk IDE is on a trajectory to incorporate an AI chatbot directly within its environment, aiming to revolutionize the way users interact with the Jentalk language. The ultimate goal is to have an integrated AI that can assist with writing, reasoning, and visualizing Jentalk expressions in real-time. While this feature is under development, we have devised an interim method to harness the power of AI for Jentalk.
 
-To quickly get started with Jentalk using the AI chatbot of your choice, please use the `AI_STARTING_PROMPT.txt` file in the repository.
+### Current Method for AI Utilization
+
+For now, the best approach to integrate AI with Jentalk is to provide your chosen AI chatbot with the specialized starting prompt available in the `AI_STARTING_PROMPT.txt` file within the repository. This prompt is meticulously crafted to instruct the AI in the fundamentals of Jentalk and to guide it in constructing tree-of-thought logic with interconnected Jentalk symbols.
+
+Here's how you can use AI with Jentalk:
+
+1. **Teach the AI**: Present the starting prompt to the AI chatbot to familiarize it with Jentalk's unique symbolic language and the concept of tree-of-thought logic.
+2. **Engage in Reasoning**: Request the AI to perform reasoning tasks using Jentalk symbols to link related ideas, forming a coherent tree of thought.
+3. **Generate and Copy the Tree**: Once the AI outputs a tree of thought, copy this structured reasoning directly from the chatbot's response.
+4. **Visualize in the IDE**: Paste the AI-generated tree into the Jentalk IDE and utilize its visualization tools to generate diagrams, allowing you to explore the intricate web of logic and relationships.
+
+### Future Vision
+
+As we continue to develop the Jentalk IDE, we envision a seamless integration where the AI chatbot becomes an intrinsic part of the IDE's toolkit. This will enable users to:
+
+- **Interact with the AI**: Directly ask questions and receive guidance in Jentalk within the IDE.
+- **Automate Reasoning**: Use the AI to automatically generate trees of thought based on user input or code.
+- **Visualize on the Fly**: Instantly visualize the AI's reasoning as interactive diagrams that can be manipulated and explored within the IDE.
+
+The integration of AI into the Jentalk IDE is not just about enhancing functionality; it's about expanding the horizons of linguistic expression and computational reasoning. Stay tuned for updates as we bring this vision to life.
 
 ## Contributing
 Contributions to the Jentalk IDE are welcome! Please read the CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
