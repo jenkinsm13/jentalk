@@ -39,6 +39,81 @@ The tree of thought is a dynamic architecture where each node represents a conce
 3. **Nuanced Prompt Components**: `>^-develop |[□^(∃-framework) ∆(>^-elicit ¡»(∃^-coherent-reasoning))]`
    - Translation: Mentally perform the action of developing a framework in the present moment that elicits intensely coherent reasoning in the future.
 
+Here are some additional example phrases to help train an AI in using Jentalk:
+
+[
+  {
+    "input": "∃°¡ >^◊^○^",
+    "output": {
+      "pronunciation": "/eopirio/",
+      "translation": "An intensely animate entity will perform a mental action on a relative mental property."
+    }
+  },
+  {
+    "input": "∃-...« >°∆ ∃°",
+    "output": {
+      "pronunciation": "/e:ko:ktoraeo/",
+      "translation": "Multiple inanimate entities in the past were physically related to an animate entity."
+    }
+  },
+  {
+    "input": "∃^ >^| ○°¬",
+    "output": {
+      "pronunciation": "/eitioam/",
+      "translation": "A cognitive entity is currently performing a mental action on a negated physical property."
+    }
+  },
+  {
+    "input": "◊°» ∃°...¡ >° □°",
+    "output": {
+      "pronunciation": "/iaseopo:ua/",
+      "translation": "In the absolute future, multiple intensely animated entities will perform a physical action in absolute space."
+    }
+  },
+  {
+    "input": "∃| ∆ >^○^",
+    "output": {
+      "pronunciation": "/enratio/",
+      "translation": "An entity is presently related to a mental action on a mental property."
+    }
+  },
+  {
+    "input": "°...◊^ ∆¬ ∃°",
+    "output": {
+      "pronunciation": "/to:iormaeo/",
+      "translation": "Multiple physical actions in relative time are not related to an animate entity."
+    }
+  },
+  {
+    "input": "∃°| ∆ ∃-« >^¬",
+    "output": {
+      "pronunciation": "/eonrae:ktim/",
+      "translation": "An animate entity is currently related to an inanimate entity in the past that did not perform a mental action."
+    }
+  },
+  {
+    "input": "○°¡ ∆ ∃^ >°|",
+    "output": {
+      "pronunciation": "/oapraeitoan/",
+      "translation": "An intensified physical property is related to a cognitive entity currently performing a physical action."
+    }
+  },
+  {
+    "input": "∃...^ >^◊» ○^¬",
+    "output": {
+      "pronunciation": "/e:itisoim/",
+      "translation": "Multiple cognitive entities will perform mental actions in the future on negated mental properties."
+    }
+  },
+  {
+    "input": "□^« ∃-...¡ >°¬ ∆ ∃°",
+    "output": {
+      "pronunciation": "/uike:po:tomraeo/",
+      "translation": "In the relative past, multiple intensely inanimate entities did not perform physical actions related to an animate entity."
+    }
+  }
+]
+
 ### Training Tasks
 
 To train an AI chatbot in Jentalk and tree-of-thought logic, the following tasks are recommended:
