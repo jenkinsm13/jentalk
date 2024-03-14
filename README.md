@@ -65,6 +65,31 @@ Here's how you can use AI with Jentalk:
 3. **Generate and Copy the Tree**: Once the AI outputs a tree of thought, copy this structured reasoning directly from the chatbot's response.
 4. **Visualize in the IDE**: Paste the AI-generated tree into the Jentalk IDE and utilize its visualization tools to generate diagrams, allowing you to explore the intricate web of logic and relationships.
 
+## Jentalk-Expert Chatbot
+
+We are delighted to introduce the Jentalk-Expert chatbot, a specialized AI designed to assist with Jentalk language queries and to demonstrate the Tree of Thought reasoning process. This chatbot is an embodiment of the Jentalk IDE's principles, providing an interactive way to explore the language's capabilities and to receive guidance on using the IDE effectively.
+
+### Engage with Jentalk-Expert
+
+The Jentalk-Expert chatbot is available on Poe, a platform that allows for dynamic conversations with various AI models. You can have back-and-forth discussions with the Jentalk-Expert, ask questions about the Jentalk language, and get instant answers.
+
+To experience a sample conversation with the Jentalk-Expert and see it in action, visit the shared conversation:
+
+[Sample Chat with Jentalk-Expert](https://poe.com/s/K9HjeKOnjmLGKPPRQtPf)
+
+### Access the Bot Directly
+
+For a direct interaction with the Jentalk-Expert, you can visit the bot's page on Poe:
+
+[Jentalk-Expert on Poe](https://poe.com/Jentalk-Expert)
+
+### How to Use Jentalk-Expert
+
+- **Initiate a Conversation**: Start by presenting a scenario or a problem you wish to explore using Jentalk symbols.
+- **Ask for Examples**: Request specific examples of Tree of Thought reasoning to understand how Jentalk structures complex logic.
+- **Explore Jentalk Syntax**: Inquire about the syntax and semantics of Jentalk to deepen your understanding of the language.
+
+The Jentalk-Expert is an excellent resource for both beginners and experienced users of the Jentalk IDE, providing a unique opportunity to enhance your understanding of symbolic logic in an interactive manner.
 ### Future Vision
 
 As we continue to develop the Jentalk IDE, we envision a seamless integration where the AI chatbot becomes an intrinsic part of the IDE's toolkit. This will enable users to:
