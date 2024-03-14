@@ -1,0 +1,10 @@
+digraph "Tree of Thought" {
+	rankdir=LR
+	"0_0" [label="entity: ∃"]
+	"0_2" [label="action: >"]
+	"0_1" -> "0_2"
+	"0_4" [label="time: ◊"]
+	"0_3" -> "0_4"
+	"0_6" [label="property: ○"]
+	"0_5" -> "0_6"
+}

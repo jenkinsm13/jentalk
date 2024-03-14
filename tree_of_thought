@@ -1,0 +1,240 @@
+digraph "Tree of Thought" {
+	subgraph cluster_0 {
+		label="Line 1"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"space_□_4" [label="space: □"]
+		UNKNOWN__3 -> "space_□_4"
+		UNKNOWN__5 [label=""]
+		"space_□_4" -> UNKNOWN__5
+	}
+	subgraph cluster_1 {
+		label="Line 2"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_2 {
+		label="Line 3"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"space_□_4" [label="space: □"]
+		UNKNOWN__3 -> "space_□_4"
+		UNKNOWN__5 [label=""]
+		"space_□_4" -> UNKNOWN__5
+	}
+	subgraph cluster_3 {
+		label="Line 4"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+	}
+	subgraph cluster_4 {
+		label="Line 5"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_5 {
+		label="Line 6"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"property_○_2" [label="property: ○"]
+		UNKNOWN__1 -> "property_○_2"
+		UNKNOWN__3 [label=""]
+		"property_○_2" -> UNKNOWN__3
+		"time_◊_4" [label="time: ◊"]
+		UNKNOWN__3 -> "time_◊_4"
+		UNKNOWN__5 [label=""]
+		"time_◊_4" -> UNKNOWN__5
+	}
+	subgraph cluster_6 {
+		label="Line 7"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"space_□_2" [label="space: □"]
+		UNKNOWN__1 -> "space_□_2"
+		UNKNOWN__3 [label=""]
+		"space_□_2" -> UNKNOWN__3
+	}
+	subgraph cluster_7 {
+		label="Line 8"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_8 {
+		label="Line 9"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"relation_∆_2" [label="relation: ∆"]
+		UNKNOWN__1 -> "relation_∆_2"
+		UNKNOWN__3 [label=""]
+		"relation_∆_2" -> UNKNOWN__3
+		"entity_∃_4" [label="entity: ∃"]
+		UNKNOWN__3 -> "entity_∃_4"
+		UNKNOWN__5 [label=""]
+		"entity_∃_4" -> UNKNOWN__5
+	}
+	subgraph cluster_9 {
+		label="Line 10"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"relation_∆_2" [label="relation: ∆"]
+		UNKNOWN__1 -> "relation_∆_2"
+		UNKNOWN__3 [label=""]
+		"relation_∆_2" -> UNKNOWN__3
+		"action_>_4" [label="action: >"]
+		UNKNOWN__3 -> "action_>_4"
+		UNKNOWN__5 [label=""]
+		"action_>_4" -> UNKNOWN__5
+	}
+	subgraph cluster_10 {
+		label="Line 11"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"relation_∆_2" [label="relation: ∆"]
+		UNKNOWN__1 -> "relation_∆_2"
+		UNKNOWN__3 [label=""]
+		"relation_∆_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_11 {
+		label="Line 12"
+		"action_>_0" [label="action: >"]
+		UNKNOWN__1 [label=""]
+		"action_>_0" -> UNKNOWN__1
+		"time_◊»_2" [label="time: ◊»"]
+		UNKNOWN__1 -> "time_◊»_2"
+		"future_»_3" [label="future: »"]
+		"time_◊»_2" -> "future_»_3"
+		"action_>_4" [label="action: >"]
+		"future_»_3" -> "action_>_4"
+		UNKNOWN__5 [label=""]
+		"action_>_4" -> UNKNOWN__5
+		"time_◊«_6" [label="time: ◊«"]
+		UNKNOWN__5 -> "time_◊«_6"
+		"past_«_7" [label="past: «"]
+		"time_◊«_6" -> "past_«_7"
+	}
+	subgraph cluster_12 {
+		label="Line 13"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_13 {
+		label="Line 14"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"property_○_2" [label="property: ○"]
+		UNKNOWN__1 -> "property_○_2"
+		UNKNOWN__3 [label=""]
+		"property_○_2" -> UNKNOWN__3
+		"time_◊_4" [label="time: ◊"]
+		UNKNOWN__3 -> "time_◊_4"
+		UNKNOWN__5 [label=""]
+		"time_◊_4" -> UNKNOWN__5
+	}
+	subgraph cluster_14 {
+		label="Line 15"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"space_□_2" [label="space: □"]
+		UNKNOWN__1 -> "space_□_2"
+		UNKNOWN__3 [label=""]
+		"space_□_2" -> UNKNOWN__3
+	}
+	subgraph cluster_15 {
+		label="Line 16"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+	}
+	subgraph cluster_16 {
+		label="Line 17"
+		"entity_∃_0" [label="entity: ∃"]
+		UNKNOWN__1 [label=""]
+		"entity_∃_0" -> UNKNOWN__1
+		"action_>_2" [label="action: >"]
+		UNKNOWN__1 -> "action_>_2"
+		UNKNOWN__3 [label=""]
+		"action_>_2" -> UNKNOWN__3
+		"property_○_4" [label="property: ○"]
+		UNKNOWN__3 -> "property_○_4"
+		UNKNOWN__5 [label=""]
+		"property_○_4" -> UNKNOWN__5
+		"relation_∆_6" [label="relation: ∆"]
+		UNKNOWN__5 -> "relation_∆_6"
+		UNKNOWN__7 [label=""]
+		"relation_∆_6" -> UNKNOWN__7
+		"time_◊_8" [label="time: ◊"]
+		UNKNOWN__7 -> "time_◊_8"
+		UNKNOWN__9 [label=""]
+		"time_◊_8" -> UNKNOWN__9
+	}
+}
