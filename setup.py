@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='JentalkIDE',
-    version='0.1.0',
+    version='0.1.1',
     author='Mike Jenkins',
     author_email='mike@chrotonics.com',
     packages=find_packages(),
     install_requires=[
-        'tkinter',  # Assuming tkinter is a dependency; replace with actual dependencies
+        'graphviz',
     ],
     url='http://pypi.python.org/pypi/JentalkIDE/',
     license='LICENSE',
