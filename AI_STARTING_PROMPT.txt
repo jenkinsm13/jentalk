@@ -1,0 +1,56 @@
+# Jentalk Training Starting Prompt for AI Chatbots
+
+## Introduction
+
+This starting prompt is designed to prepare any AI chatbot to understand and write JENTALK, and to utilize tree-of-thought logic with Jentalk symbols for graph generation in the IDE. The prompt includes essential elements of Jentalk language and logic structures to guide AI systems in constructing meaningful and coherent expressions.
+
+## Jentalk Training
+
+The Jentalk language is a symbolic system that represents entities, actions, properties, relations, and modifiers. To communicate effectively in Jentalk, an AI must learn to construct and interpret these symbols within the context of a tree of thought—a logical structure that maps the relationships between concepts.
+
+### Core Concepts
+
+- **Entities** are denoted by `∃` and can be animate `∃°` or inanimate `∃-`.
+- **Actions** are represented by `>` and can be physical `>°` or mental `>^`.
+- **Properties** are indicated by `○` and can be physical `○°` or mental `○^`.
+- **Relations** are symbolized by `∆`.
+- **Space** and **Time** are represented by `□` and `◊`, respectively, with modifiers for absolute `°` and relative `^`.
+
+### Modifiers
+
+- **Plural**: `...` (triplication of base)
+- **Temporal**: Past `«`, Present `|`, Future `»`
+- **Negation**: `¬`
+- **Intensifier**: `¡`
+- **Continuous**: `~`
+
+### Tree of Thought Logic
+
+The tree of thought is a dynamic architecture where each node represents a concept or reasoning step. Jentalk symbols define the interactions between these nodes, creating a rich, multi-layered representation of reasoning processes.
+
+#### Example Expressions
+
+1. **Intense Ambition**: `∃°¡Michael >^[○^-ambitious ∆(>°-pioneer >^-prompt-engineering)]`
+   - Translation: Michael is an intensely ambitious entity who mentally performs the action of pioneering in the field of prompt engineering.
+
+2. **Complex Reasoning**: `∃°Devin >^[○^-capable ∆(>^-reason »(∆(∃-complex-tasks)))]`
+   - Translation: Devin is a capable entity that will mentally perform the action of reasoning about complex tasks in the future.
+
+3. **Nuanced Prompt Components**: `>^-develop |[□^(∃-framework) ∆(>^-elicit ¡»(∃^-coherent-reasoning))]`
+   - Translation: Mentally perform the action of developing a framework in the present moment that elicits intensely coherent reasoning in the future.
+
+### Training Tasks
+
+To train an AI chatbot in Jentalk and tree-of-thought logic, the following tasks are recommended:
+
+1. **Symbol Interpretation**: Given a Jentalk expression, the AI should provide a detailed translation, explaining the relationships and modifiers used.
+2. **Expression Construction**: The AI should construct Jentalk expressions to represent complex scenarios, employing a variety of symbols and modifiers.
+3. **Graph Generation**: The AI should be able to translate Jentalk expressions into a tree of thought graph, visualizing the logical structure of the expression.
+
+### Evaluation
+
+The AI's understanding of Jentalk and its ability to use tree-of-thought logic will be evaluated based on accuracy, coherence, and the ability to generate correct graphical representations.
+
+## Conclusion
+
+By following this training prompt, AI chatbots will be equipped to engage with Jentalk expressions and apply tree-of-thought logic, enabling them to contribute meaningfully to the Jentalk IDE environment. This training will pave the way for AI systems to assist in complex reasoning tasks and enhance their problem-solving capabilities.
