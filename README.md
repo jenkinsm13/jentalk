@@ -55,7 +55,7 @@ The Jentalk IDE supports the integration of AI to assist with learning and using
 
 The integration of AI into the Jentalk IDE opens up exciting possibilities for automated language processing, translation, and even code generation within the Jentalk language framework.
 
-For more information on how to use the starting prompt with AI, please refer to the `AI_STARTING_PROMPT.txt` file in the repository.
+To quickly get started with Jentalk using the AI chatbot of your choice, please use the `AI_STARTING_PROMPT.txt` file in the repository.
 
 ## Contributing
 Contributions to the Jentalk IDE are welcome! Please read the CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
