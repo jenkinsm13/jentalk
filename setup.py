@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
            'console_scripts': [
-               'jentalk-ide = Jentalk.jentalk_ide:main',
+               'jentalk-ide = JentalkIDE.jentalk_ide:main',
            ],
        },
     url='http://pypi.python.org/pypi/JentalkIDE/',
