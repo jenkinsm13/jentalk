@@ -3,6 +3,8 @@
 
 Welcome to the Jentalk IDE, an innovative development environment designed to facilitate the creation, visualization, and debugging of Jentalk language expressions. Jentalk, a language of symbols and modifiers, captures the essence of entities and their interactions in a unique and expressive way.
 
+<img width="1191" alt="IMG_9549" src="https://github.com/jenkinsm13/jentalk/assets/100166407/8ee36557-6350-4783-a3e7-38087b4f2b75">
+
 ## Features
 **Syntax Highlighting**: Color-coded feedback for Jentalk primitives and modifiers to enhance readability and ease of understanding.
 **Auto-completion**: Intelligent suggestions for Jentalk tokens to streamline the coding process.
