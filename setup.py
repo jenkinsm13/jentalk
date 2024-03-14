@@ -9,6 +9,11 @@ setup(
     install_requires=[
         'graphviz',
     ],
+    entry_points={
+           'console_scripts': [
+               'jentalk-ide = Jentalk.jentalk_ide:main',
+           ],
+       },
     url='http://pypi.python.org/pypi/JentalkIDE/',
     license='LICENSE',
     description='An Integrated Development Environment for Jentalk language',
